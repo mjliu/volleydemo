@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mjliu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/mjliu/Downloads/SampleDemo1/app/build/intermediates/pre-dexed/debug/gson-2.3-0e9a614e772c64591a396c54ef0f3b4ceeda29ed.jar" />
+    </item>
+    <item
+        jar="/Users/mjliu/Downloads/SampleDemo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/mjliu/Downloads/SampleDemo1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-fdd95ff28f4b5e753bc751217d4e5de7d15f708a.jar" />
+    </item>
+    <item
+        jar="/Users/mjliu/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.5/1dd0d38df9c6d21e893f2e52403f1cd99e91cd81/httpmime-4.3.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1dd0d38df9c6d21e893f2e52403f1cd99e91cd81">
+        <dex dex="/Users/mjliu/Downloads/SampleDemo1/app/build/intermediates/pre-dexed/debug/httpmime-4.3.5-c75700e637d4d8ca5b131c0667e53bd627bd3360.jar" />
+    </item>
+    <item
+        jar="/Users/mjliu/Downloads/SampleDemo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/mjliu/Downloads/SampleDemo1/app/build/intermediates/pre-dexed/debug/classes-8d7bc3cbc1dab4386825f0010ef4fa51d73ad4b8.jar" />
+    </item>
+    <item
+        jar="/Users/mjliu/Documents/sdk/android_sdk_/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/mjliu/Downloads/SampleDemo1/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-cb6cb5cc9307d85b09f90432f2d123ad94cf6860.jar" />
+    </item>
+    <item
+        jar="/Users/mjliu/Documents/volleydemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/mjliu/Documents/volleydemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-d1bdf435478e7271cc67030c812187dbeea50b73.jar" />
+    </item>
+    <item
+        jar="/Users/mjliu/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5.1/eecbb0b998e77629862a13d957d552b3be58fc4e/httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="/Users/mjliu/Downloads/SampleDemo1/app/build/intermediates/pre-dexed/debug/httpclient-android-4.3.5.1-c955e39ad059a80ea1861f60d143ebb3336d0e34.jar" />
+    </item>
+    <item
+        jar="/Users/mjliu/Documents/volleydemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/mjliu/Documents/volleydemo/app/build/intermediates/pre-dexed/debug/classes-2d6be45a64746431a95309b767591e78baef301f.jar" />
+    </item>
+    <item
+        jar="/Users/mjliu/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/mjliu/Downloads/SampleDemo1/app/build/intermediates/pre-dexed/debug/library-1.0.19-f3a03f2813721219aaf4266b4fd29f0ae3d206f7.jar" />
+    </item>
+
+</items>
